@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Harun Sheikhali (@HarunAt1Password)
+- 👋 Hi, I’m Harun Sheikhali (@hsheikhali1P)
 - 👀 I’m interested in All Things Tech! 
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on OSS projects
